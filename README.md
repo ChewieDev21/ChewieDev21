@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dont. its weird 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... im 14 and have nearly finsished a python course of 42 hours
+- ⚡ Fun fact: ... im 14 and have nearly finished a python course of 42 hours
 
 <!---
 ChewieDev21/ChewieDev21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
